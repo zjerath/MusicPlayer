@@ -1,4 +1,4 @@
-#MusicPlayer
+# MusicPlayer
 
 A spotify clone build using NextJS, TailwindCSS, and the Spotify API
 
