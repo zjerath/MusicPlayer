@@ -1,6 +1,6 @@
 # MusicPlayer
 
-A spotify clone build using Next.js, Tailwind CSS, and the Spotify API
+An Apple Music/Spotify clone build using Next.js, Tailwind CSS, and the Spotify API
 
 API details at https://developer.spotify.com/
 
