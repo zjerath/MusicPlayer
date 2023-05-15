@@ -4,22 +4,13 @@ An Apple Music/Spotify clone built using Next.js, Tailwind CSS, and the Spotify 
 
 API details at https://developer.spotify.com/
 
-# Next.js + Tailwind CSS Example
-
-Tailwind CSS is integrated into the `create-next-app` CLI, which supports TypeScript and JavaScript, as well as the App Router (`app/`) and the pages directory `pages/`.
-
 ## How to use
 
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init), [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/), or [pnpm](https://pnpm.io) to bootstrap a project preconfigured with Tailwind CSS:
+Clone this repository and execute the following command from the base directory:
 
 ```bash
-npx create-next-app --tailwind with-tailwindcss-app
+npm run dev
 ```
 
-```bash
-yarn create next-app --tailwind with-tailwindcss-app
-```
-
-```bash
-pnpm create next-app --tailwind with-tailwindcss-app
-```
+# Demo
+https://github.com/zjerath/MusicPlayer/assets/98351255/593e1f50-79e5-4161-9494-a3d7b4df0f5b
